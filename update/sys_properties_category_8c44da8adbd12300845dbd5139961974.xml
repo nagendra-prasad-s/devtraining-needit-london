@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 13:51:03</sys_created_on>
+        <sys_id>8c44da8adbd12300845dbd5139961974</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_8c44da8adbd12300845dbd5139961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-24 07:50:41</sys_updated_on>
+        <title><![CDATA[<p><br /><img style="align: left;" title="" src="sys_attachment.do?sys_id&#61;a5398e12db112300845dbd51399619dc" alt="" width="100" height="100" align="left" border="" hspace="" vspace="" /></p>
+<p> </p>
+<p> <span style="font-family: georgia, palatino; font-size: 14pt;">  <span style="font-size: 18pt; font-family: arial, helvetica, sans-serif;">NeedIt Application Properties</span></span></p>
+<p> </p>
+<p> </p>
+<p style="text-align: left;"><em><span style="font-family: helvetica; font-size: 10pt;">These properties can be read and updated by users with the NeedIt Application&#39;s admin role: x_58872_needit.admin</span></em></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c44da8adbd12300845dbd5139961974"/>
+</record_update>
